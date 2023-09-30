@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kou2sgu4red94gx1?svg=true)](https://ci.appveyor.com/project/OlgaUsh89/patterns)
